@@ -43,3 +43,5 @@ def format_number(n: int) -> str:
             return f"{n:.1f}{unit}"
         n /= 1000
     return f"{n:.1f}T"
+
+# Update evaluation protocol for robustness checks [2025-06-11T14:39:41]
