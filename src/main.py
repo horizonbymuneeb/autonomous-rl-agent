@@ -174,3 +174,5 @@ def main():
 
 if __name__ == '__main__':
     main()
+
+# WIP: tuning hyperparameters for sparse rewards [2025-06-12T12:52:00]
