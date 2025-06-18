@@ -184,3 +184,5 @@ if __name__ == '__main__':
 # Implement model-based RL with learned dynamics [2025-06-18T20:47:25]
 
 # Add transfer learning between related tasks [2025-06-18T11:05:13]
+
+# WIP: debugging reward shaping for stability [2025-06-18T15:52:07]
