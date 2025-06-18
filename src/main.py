@@ -180,3 +180,5 @@ if __name__ == '__main__':
 # Update agent for multi-agent scenario support [2025-06-17T10:17:48]
 
 # WIP: tuning hyperparameters for sparse rewards [2025-06-17T11:51:22]
+
+# Implement model-based RL with learned dynamics [2025-06-18T20:47:25]
