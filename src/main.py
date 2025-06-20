@@ -186,3 +186,5 @@ if __name__ == '__main__':
 # Add transfer learning between related tasks [2025-06-18T11:05:13]
 
 # WIP: debugging reward shaping for stability [2025-06-18T15:52:07]
+
+# Fix observation normalization statistics [2025-06-20T19:50:21]

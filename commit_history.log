@@ -200,3 +200,4 @@
 [2025-06-18T20:47:25] Implement model-based RL with learned dynamics
 [2025-06-18T11:05:13] Add transfer learning between related tasks
 [2025-06-18T15:52:07] WIP: debugging reward shaping for stability
+[2025-06-20T19:50:21] Fix observation normalization statistics
