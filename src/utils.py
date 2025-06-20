@@ -51,3 +51,5 @@ def format_number(n: int) -> str:
 # Add transfer learning between related tasks [2025-06-20T09:49:34]
 
 # WIP: tuning hyperparameters for sparse rewards [2025-06-20T14:16:45]
+
+# Implement hierarchical RL for long horizons [2025-06-20T13:16:39]
