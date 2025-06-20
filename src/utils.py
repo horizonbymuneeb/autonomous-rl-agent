@@ -49,3 +49,5 @@ def format_number(n: int) -> str:
 # Implement DQN with experience replay buffer [2025-06-16T20:01:06]
 
 # Add transfer learning between related tasks [2025-06-20T09:49:34]
+
+# WIP: tuning hyperparameters for sparse rewards [2025-06-20T14:16:45]
