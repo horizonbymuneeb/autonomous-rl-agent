@@ -188,3 +188,5 @@ if __name__ == '__main__':
 # WIP: debugging reward shaping for stability [2025-06-18T15:52:07]
 
 # Fix observation normalization statistics [2025-06-20T19:50:21]
+
+# Add PyBullet physics simulation backend [2025-06-22T10:00:22]
