@@ -196,3 +196,5 @@ if __name__ == '__main__':
 # Fix observation normalization statistics [2025-06-23T11:46:52]
 
 # Implement model-based RL with learned dynamics [2025-06-26T10:00:13]
+
+# WIP: benchmarking on MuJoCo control tasks [2025-06-27T14:26:08]
