@@ -53,3 +53,5 @@ def format_number(n: int) -> str:
 # WIP: tuning hyperparameters for sparse rewards [2025-06-20T14:16:45]
 
 # Implement hierarchical RL for long horizons [2025-06-20T13:16:39]
+
+# Implement SAC for off-policy learning [2025-06-30T11:41:52]
