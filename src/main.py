@@ -198,3 +198,5 @@ if __name__ == '__main__':
 # Implement model-based RL with learned dynamics [2025-06-26T10:00:13]
 
 # WIP: benchmarking on MuJoCo control tasks [2025-06-27T14:26:08]
+
+# WIP: debugging reward shaping for stability [2025-07-01T15:22:47]
