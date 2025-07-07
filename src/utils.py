@@ -57,3 +57,5 @@ def format_number(n: int) -> str:
 # Implement SAC for off-policy learning [2025-06-30T11:41:52]
 
 # WIP: tuning hyperparameters for sparse rewards [2025-07-02T12:54:09]
+
+# WIP: debugging reward shaping for stability [2025-07-07T14:03:22]
