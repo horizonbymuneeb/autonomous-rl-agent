@@ -59,3 +59,5 @@ def format_number(n: int) -> str:
 # WIP: tuning hyperparameters for sparse rewards [2025-07-02T12:54:09]
 
 # WIP: debugging reward shaping for stability [2025-07-07T14:03:22]
+
+# Implement model-based RL with learned dynamics [2025-07-08T14:53:02]
