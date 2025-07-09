@@ -215,3 +215,4 @@
 [2025-07-07T14:03:22] WIP: debugging reward shaping for stability
 [2025-07-08T14:53:02] Implement model-based RL with learned dynamics
 [2025-07-09T11:13:51] Update agent for multi-agent scenario support
+[2025-07-09T20:00:45] Implement curriculum learning for harder tasks

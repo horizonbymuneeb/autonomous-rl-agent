@@ -61,3 +61,5 @@ def format_number(n: int) -> str:
 # WIP: debugging reward shaping for stability [2025-07-07T14:03:22]
 
 # Implement model-based RL with learned dynamics [2025-07-08T14:53:02]
+
+# Implement curriculum learning for harder tasks [2025-07-09T20:00:45]
