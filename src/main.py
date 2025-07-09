@@ -200,3 +200,5 @@ if __name__ == '__main__':
 # WIP: benchmarking on MuJoCo control tasks [2025-06-27T14:26:08]
 
 # WIP: debugging reward shaping for stability [2025-07-01T15:22:47]
+
+# Update agent for multi-agent scenario support [2025-07-09T11:13:51]
