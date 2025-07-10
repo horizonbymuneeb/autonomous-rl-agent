@@ -65,3 +65,5 @@ def format_number(n: int) -> str:
 # Implement curriculum learning for harder tasks [2025-07-09T20:00:45]
 
 # Implement hindsight experience replay for sparse [2025-07-09T17:29:18]
+
+# Add custom Gym environment for navigation [2025-07-10T10:58:41]
