@@ -69,3 +69,5 @@ def format_number(n: int) -> str:
 # Add custom Gym environment for navigation [2025-07-10T10:58:41]
 
 # Implement hindsight experience replay for sparse [2025-07-11T20:18:09]
+
+# WIP: debugging reward shaping for stability [2025-07-13T10:30:50]
