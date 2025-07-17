@@ -71,3 +71,5 @@ def format_number(n: int) -> str:
 # Implement hindsight experience replay for sparse [2025-07-11T20:18:09]
 
 # WIP: debugging reward shaping for stability [2025-07-13T10:30:50]
+
+# Update evaluation protocol for robustness checks [2025-07-17T11:00:44]
