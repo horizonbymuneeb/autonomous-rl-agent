@@ -206,3 +206,5 @@ if __name__ == '__main__':
 # Add custom Gym environment for navigation [2025-07-09T18:52:44]
 
 # Implement hindsight experience replay for sparse [2025-07-10T10:03:31]
+
+# Implement hierarchical RL for long horizons [2025-07-17T16:55:16]
