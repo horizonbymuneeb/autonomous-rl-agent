@@ -73,3 +73,5 @@ def format_number(n: int) -> str:
 # WIP: debugging reward shaping for stability [2025-07-13T10:30:50]
 
 # Update evaluation protocol for robustness checks [2025-07-17T11:00:44]
+
+# Implement DQN with experience replay buffer [2025-07-18T20:44:18]
