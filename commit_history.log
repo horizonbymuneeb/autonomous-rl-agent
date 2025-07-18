@@ -225,3 +225,4 @@
 [2025-07-17T16:55:16] Implement hierarchical RL for long horizons
 [2025-07-17T11:00:44] Update evaluation protocol for robustness checks
 [2025-07-18T10:51:19] Add PyBullet physics simulation backend
+[2025-07-18T12:54:20] Fix observation normalization statistics

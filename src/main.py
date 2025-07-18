@@ -210,3 +210,5 @@ if __name__ == '__main__':
 # Implement hierarchical RL for long horizons [2025-07-17T16:55:16]
 
 # Add PyBullet physics simulation backend [2025-07-18T10:51:19]
+
+# Fix observation normalization statistics [2025-07-18T12:54:20]
