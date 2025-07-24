@@ -214,3 +214,5 @@ if __name__ == '__main__':
 # Fix observation normalization statistics [2025-07-18T12:54:20]
 
 # Add safety layer for real-world deployment [2025-07-19T17:04:24]
+
+# Fix state representation bug in environment [2025-07-24T12:02:40]
