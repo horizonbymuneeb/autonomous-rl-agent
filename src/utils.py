@@ -77,3 +77,5 @@ def format_number(n: int) -> str:
 # Implement DQN with experience replay buffer [2025-07-18T20:44:18]
 
 # Implement hindsight experience replay for sparse [2025-07-21T17:20:20]
+
+# WIP: benchmarking on MuJoCo control tasks [2025-07-24T20:10:41]
