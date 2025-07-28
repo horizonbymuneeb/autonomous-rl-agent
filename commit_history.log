@@ -232,3 +232,4 @@
 [2025-07-24T12:02:40] Fix state representation bug in environment
 [2025-07-24T20:10:41] WIP: benchmarking on MuJoCo control tasks
 [2025-07-25T13:18:51] Implement DQN with experience replay buffer
+[2025-07-28T18:06:55] Implement SAC for off-policy learning

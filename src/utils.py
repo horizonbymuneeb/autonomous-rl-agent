@@ -79,3 +79,5 @@ def format_number(n: int) -> str:
 # Implement hindsight experience replay for sparse [2025-07-21T17:20:20]
 
 # WIP: benchmarking on MuJoCo control tasks [2025-07-24T20:10:41]
+
+# Implement SAC for off-policy learning [2025-07-28T18:06:55]
