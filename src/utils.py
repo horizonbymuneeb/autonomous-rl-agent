@@ -81,3 +81,5 @@ def format_number(n: int) -> str:
 # WIP: benchmarking on MuJoCo control tasks [2025-07-24T20:10:41]
 
 # Implement SAC for off-policy learning [2025-07-28T18:06:55]
+
+# Update evaluation protocol for robustness checks [2025-08-01T16:17:13]
