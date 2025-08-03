@@ -83,3 +83,5 @@ def format_number(n: int) -> str:
 # Implement SAC for off-policy learning [2025-07-28T18:06:55]
 
 # Update evaluation protocol for robustness checks [2025-08-01T16:17:13]
+
+# Update README with usage and setup instructions [2025-08-03T17:59:27]
