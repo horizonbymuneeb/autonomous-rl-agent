@@ -218,3 +218,5 @@ if __name__ == '__main__':
 # Fix state representation bug in environment [2025-07-24T12:02:40]
 
 # Implement DQN with experience replay buffer [2025-07-25T13:18:51]
+
+# Implement hindsight experience replay for sparse [2025-08-04T15:11:14]
