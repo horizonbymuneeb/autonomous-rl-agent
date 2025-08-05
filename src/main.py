@@ -222,3 +222,5 @@ if __name__ == '__main__':
 # Implement hindsight experience replay for sparse [2025-08-04T15:11:14]
 
 # WIP: benchmarking on MuJoCo control tasks [2025-08-04T12:25:05]
+
+# Add logging for training metrics to tensorboard [2025-08-05T18:50:57]

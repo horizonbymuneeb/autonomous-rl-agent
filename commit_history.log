@@ -238,3 +238,4 @@
 [2025-08-04T15:11:14] Implement hindsight experience replay for sparse
 [2025-08-04T12:25:05] WIP: benchmarking on MuJoCo control tasks
 [2025-08-05T13:04:07] Implement DQN with experience replay buffer
+[2025-08-05T18:50:57] Add logging for training metrics to tensorboard
