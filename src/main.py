@@ -224,3 +224,5 @@ if __name__ == '__main__':
 # WIP: benchmarking on MuJoCo control tasks [2025-08-04T12:25:05]
 
 # Add logging for training metrics to tensorboard [2025-08-05T18:50:57]
+
+# WIP: debugging reward shaping for stability [2025-08-13T10:22:22]
