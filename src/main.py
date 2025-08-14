@@ -226,3 +226,5 @@ if __name__ == '__main__':
 # Add logging for training metrics to tensorboard [2025-08-05T18:50:57]
 
 # WIP: debugging reward shaping for stability [2025-08-13T10:22:22]
+
+# WIP: debugging reward shaping for stability [2025-08-14T18:29:20]
