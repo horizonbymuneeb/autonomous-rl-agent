@@ -242,3 +242,4 @@
 [2025-08-08T18:38:21] Add transfer learning between related tasks
 [2025-08-13T10:22:22] WIP: debugging reward shaping for stability
 [2025-08-14T18:29:20] WIP: debugging reward shaping for stability
+[2025-08-15T18:35:56] WIP: benchmarking on MuJoCo control tasks
