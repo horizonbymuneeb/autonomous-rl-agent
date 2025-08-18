@@ -91,3 +91,5 @@ def format_number(n: int) -> str:
 # Add transfer learning between related tasks [2025-08-08T18:38:21]
 
 # WIP: benchmarking on MuJoCo control tasks [2025-08-15T18:35:56]
+
+# Implement hierarchical RL for long horizons [2025-08-18T13:53:21]
