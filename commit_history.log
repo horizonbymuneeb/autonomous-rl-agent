@@ -245,3 +245,4 @@
 [2025-08-15T18:35:56] WIP: benchmarking on MuJoCo control tasks
 [2025-08-18T13:53:21] Implement hierarchical RL for long horizons
 [2025-08-18T18:27:29] Update README with usage and setup instructions
+[2025-08-18T14:58:26] Add transfer learning between related tasks

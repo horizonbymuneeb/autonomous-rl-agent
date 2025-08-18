@@ -230,3 +230,5 @@ if __name__ == '__main__':
 # WIP: debugging reward shaping for stability [2025-08-14T18:29:20]
 
 # Update README with usage and setup instructions [2025-08-18T18:27:29]
+
+# Add transfer learning between related tasks [2025-08-18T14:58:26]
