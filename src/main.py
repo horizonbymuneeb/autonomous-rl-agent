@@ -232,3 +232,5 @@ if __name__ == '__main__':
 # Update README with usage and setup instructions [2025-08-18T18:27:29]
 
 # Add transfer learning between related tasks [2025-08-18T14:58:26]
+
+# Implement model-based RL with learned dynamics [2025-08-19T20:05:00]
