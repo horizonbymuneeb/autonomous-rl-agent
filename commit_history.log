@@ -248,3 +248,4 @@
 [2025-08-18T14:58:26] Add transfer learning between related tasks
 [2025-08-19T20:05:00] Implement model-based RL with learned dynamics
 [2025-08-22T13:28:23] Implement hierarchical RL for long horizons
+[2025-08-26T20:06:59] Add safety layer for real-world deployment
