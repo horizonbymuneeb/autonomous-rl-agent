@@ -97,3 +97,5 @@ def format_number(n: int) -> str:
 # Implement hierarchical RL for long horizons [2025-08-22T13:28:23]
 
 # Add safety layer for real-world deployment [2025-08-26T20:06:59]
+
+# Update README with usage and setup instructions [2025-08-26T12:43:38]
