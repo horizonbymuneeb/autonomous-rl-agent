@@ -105,3 +105,5 @@ def format_number(n: int) -> str:
 # Update PPO for continuous action control [2025-09-03T17:09:36]
 
 # Implement SAC for off-policy learning [2025-09-03T10:07:41]
+
+# Implement DQN with experience replay buffer [2025-09-05T13:51:04]
