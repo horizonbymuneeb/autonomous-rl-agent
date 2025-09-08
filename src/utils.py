@@ -107,3 +107,5 @@ def format_number(n: int) -> str:
 # Implement SAC for off-policy learning [2025-09-03T10:07:41]
 
 # Implement DQN with experience replay buffer [2025-09-05T13:51:04]
+
+# Fix state representation bug in environment [2025-09-08T17:56:49]
