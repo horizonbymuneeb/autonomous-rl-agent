@@ -236,3 +236,5 @@ if __name__ == '__main__':
 # Implement model-based RL with learned dynamics [2025-08-19T20:05:00]
 
 # Add safety layer for real-world deployment [2025-08-28T10:54:36]
+
+# Update README with usage and setup instructions [2025-09-09T17:16:44]
