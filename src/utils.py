@@ -109,3 +109,5 @@ def format_number(n: int) -> str:
 # Implement DQN with experience replay buffer [2025-09-05T13:51:04]
 
 # Fix state representation bug in environment [2025-09-08T17:56:49]
+
+# Implement hindsight experience replay for sparse [2025-09-10T10:50:57]
