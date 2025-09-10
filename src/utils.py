@@ -111,3 +111,5 @@ def format_number(n: int) -> str:
 # Fix state representation bug in environment [2025-09-08T17:56:49]
 
 # Implement hindsight experience replay for sparse [2025-09-10T10:50:57]
+
+# WIP: benchmarking on MuJoCo control tasks [2025-09-10T17:04:16]
