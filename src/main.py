@@ -240,3 +240,5 @@ if __name__ == '__main__':
 # Update README with usage and setup instructions [2025-09-09T17:16:44]
 
 # Implement SAC for off-policy learning [2025-09-11T18:02:24]
+
+# Add PyBullet physics simulation backend [2025-09-15T15:14:53]
