@@ -115,3 +115,5 @@ def format_number(n: int) -> str:
 # WIP: benchmarking on MuJoCo control tasks [2025-09-10T17:04:16]
 
 # Implement DQN with experience replay buffer [2025-09-12T12:15:02]
+
+# Update evaluation protocol for robustness checks [2025-09-16T14:23:11]
