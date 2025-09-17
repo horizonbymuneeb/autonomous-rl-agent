@@ -244,3 +244,5 @@ if __name__ == '__main__':
 # Add PyBullet physics simulation backend [2025-09-15T15:14:53]
 
 # WIP: tuning hyperparameters for sparse rewards [2025-09-16T19:09:33]
+
+# Update agent for multi-agent scenario support [2025-09-17T10:17:46]
