@@ -117,3 +117,5 @@ def format_number(n: int) -> str:
 # Implement DQN with experience replay buffer [2025-09-12T12:15:02]
 
 # Update evaluation protocol for robustness checks [2025-09-16T14:23:11]
+
+# Implement curriculum learning for harder tasks [2025-09-18T15:57:51]
