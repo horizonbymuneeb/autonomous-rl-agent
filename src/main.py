@@ -246,3 +246,5 @@ if __name__ == '__main__':
 # WIP: tuning hyperparameters for sparse rewards [2025-09-16T19:09:33]
 
 # Update agent for multi-agent scenario support [2025-09-17T10:17:46]
+
+# WIP: benchmarking on MuJoCo control tasks [2025-09-18T10:46:11]
