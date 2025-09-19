@@ -267,3 +267,4 @@
 [2025-09-17T10:17:46] Update agent for multi-agent scenario support
 [2025-09-18T10:46:11] WIP: benchmarking on MuJoCo control tasks
 [2025-09-18T15:57:51] Implement curriculum learning for harder tasks
+[2025-09-19T16:45:06] Add safety layer for real-world deployment
