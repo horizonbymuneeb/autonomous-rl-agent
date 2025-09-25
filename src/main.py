@@ -248,3 +248,5 @@ if __name__ == '__main__':
 # Update agent for multi-agent scenario support [2025-09-17T10:17:46]
 
 # WIP: benchmarking on MuJoCo control tasks [2025-09-18T10:46:11]
+
+# Implement SAC for off-policy learning [2025-09-25T20:27:28]
