@@ -272,3 +272,4 @@
 [2025-09-23T11:18:04] Add logging for training metrics to tensorboard
 [2025-09-23T17:05:14] Update evaluation protocol for robustness checks
 [2025-09-25T20:27:28] Implement SAC for off-policy learning
+[2025-09-25T14:57:55] Update agent for multi-agent scenario support
