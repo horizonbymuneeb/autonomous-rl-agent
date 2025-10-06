@@ -277,3 +277,4 @@
 [2025-09-29T14:21:04] Add custom Gym environment for navigation
 [2025-10-01T14:52:40] Update agent for multi-agent scenario support
 [2025-10-02T09:56:52] Fix state representation bug in environment
+[2025-10-06T20:00:34] Implement curriculum learning for harder tasks
