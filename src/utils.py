@@ -135,3 +135,5 @@ def format_number(n: int) -> str:
 # Update agent for multi-agent scenario support [2025-10-01T14:52:40]
 
 # Implement curriculum learning for harder tasks [2025-10-06T20:00:34]
+
+# Add logging for training metrics to tensorboard [2025-10-07T11:30:30]
