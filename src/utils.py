@@ -137,3 +137,5 @@ def format_number(n: int) -> str:
 # Implement curriculum learning for harder tasks [2025-10-06T20:00:34]
 
 # Add logging for training metrics to tensorboard [2025-10-07T11:30:30]
+
+# Implement hindsight experience replay for sparse [2025-10-09T10:54:10]
