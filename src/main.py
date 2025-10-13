@@ -254,3 +254,5 @@ if __name__ == '__main__':
 # Update agent for multi-agent scenario support [2025-09-26T19:26:37]
 
 # Fix state representation bug in environment [2025-10-02T09:56:52]
+
+# Add logging for training metrics to tensorboard [2025-10-13T16:39:16]
