@@ -282,3 +282,4 @@
 [2025-10-09T10:54:10] Implement hindsight experience replay for sparse
 [2025-10-13T18:50:31] Fix state representation bug in environment
 [2025-10-13T16:39:16] Add logging for training metrics to tensorboard
+[2025-10-16T14:14:18] Update PPO for continuous action control
