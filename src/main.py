@@ -256,3 +256,5 @@ if __name__ == '__main__':
 # Fix state representation bug in environment [2025-10-02T09:56:52]
 
 # Add logging for training metrics to tensorboard [2025-10-13T16:39:16]
+
+# Implement SAC for off-policy learning [2025-10-20T10:02:21]
