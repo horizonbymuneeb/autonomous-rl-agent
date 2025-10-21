@@ -258,3 +258,5 @@ if __name__ == '__main__':
 # Add logging for training metrics to tensorboard [2025-10-13T16:39:16]
 
 # Implement SAC for off-policy learning [2025-10-20T10:02:21]
+
+# Fix observation normalization statistics [2025-10-21T15:42:07]
