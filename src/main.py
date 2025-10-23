@@ -260,3 +260,5 @@ if __name__ == '__main__':
 # Implement SAC for off-policy learning [2025-10-20T10:02:21]
 
 # Fix observation normalization statistics [2025-10-21T15:42:07]
+
+# WIP: tuning hyperparameters for sparse rewards [2025-10-23T16:49:52]
