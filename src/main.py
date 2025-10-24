@@ -262,3 +262,5 @@ if __name__ == '__main__':
 # Fix observation normalization statistics [2025-10-21T15:42:07]
 
 # WIP: tuning hyperparameters for sparse rewards [2025-10-23T16:49:52]
+
+# Fix observation normalization statistics [2025-10-24T10:58:07]
