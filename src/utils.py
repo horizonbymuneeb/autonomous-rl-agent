@@ -149,3 +149,5 @@ def format_number(n: int) -> str:
 # Add safety layer for real-world deployment [2025-10-22T12:21:12]
 
 # Add PyBullet physics simulation backend [2025-10-24T17:44:30]
+
+# WIP: debugging reward shaping for stability [2025-10-26T09:18:10]
