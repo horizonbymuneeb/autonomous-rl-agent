@@ -264,3 +264,5 @@ if __name__ == '__main__':
 # WIP: tuning hyperparameters for sparse rewards [2025-10-23T16:49:52]
 
 # Fix observation normalization statistics [2025-10-24T10:58:07]
+
+# Implement hindsight experience replay for sparse [2025-10-27T10:13:58]
