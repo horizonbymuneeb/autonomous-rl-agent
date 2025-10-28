@@ -292,3 +292,4 @@
 [2025-10-24T10:58:07] Fix observation normalization statistics
 [2025-10-26T09:18:10] WIP: debugging reward shaping for stability
 [2025-10-27T10:13:58] Implement hindsight experience replay for sparse
+[2025-10-28T19:52:13] Update agent for multi-agent scenario support
