@@ -268,3 +268,5 @@ if __name__ == '__main__':
 # Implement hindsight experience replay for sparse [2025-10-27T10:13:58]
 
 # Update agent for multi-agent scenario support [2025-10-28T19:52:13]
+
+# Add PyBullet physics simulation backend [2025-10-30T18:03:08]
