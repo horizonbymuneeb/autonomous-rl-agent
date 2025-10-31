@@ -294,3 +294,4 @@
 [2025-10-27T10:13:58] Implement hindsight experience replay for sparse
 [2025-10-28T19:52:13] Update agent for multi-agent scenario support
 [2025-10-30T18:03:08] Add PyBullet physics simulation backend
+[2025-10-31T17:46:12] WIP: debugging reward shaping for stability
