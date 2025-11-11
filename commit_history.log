@@ -297,3 +297,4 @@
 [2025-10-31T17:46:12] WIP: debugging reward shaping for stability
 [2025-11-03T18:28:16] Add custom Gym environment for navigation
 [2025-11-05T10:43:03] Fix state representation bug in environment
+[2025-11-11T13:16:33] Add logging for training metrics to tensorboard
