@@ -155,3 +155,5 @@ def format_number(n: int) -> str:
 # WIP: debugging reward shaping for stability [2025-10-31T17:46:12]
 
 # Add logging for training metrics to tensorboard [2025-11-11T13:16:33]
+
+# Implement curriculum learning for harder tasks [2025-11-12T10:11:08]
