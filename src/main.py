@@ -278,3 +278,5 @@ if __name__ == '__main__':
 # Fix observation normalization statistics [2025-11-13T14:05:07]
 
 # Fix observation normalization statistics [2025-11-13T10:46:33]
+
+# Add PyBullet physics simulation backend [2025-11-17T12:14:17]
