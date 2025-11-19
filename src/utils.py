@@ -159,3 +159,5 @@ def format_number(n: int) -> str:
 # Implement curriculum learning for harder tasks [2025-11-12T10:11:08]
 
 # WIP: debugging reward shaping for stability [2025-11-13T10:14:49]
+
+# Fix state representation bug in environment [2025-11-19T16:27:25]
