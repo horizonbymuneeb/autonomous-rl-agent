@@ -305,3 +305,4 @@
 [2025-11-17T12:14:17] Add PyBullet physics simulation backend
 [2025-11-19T16:27:25] Fix state representation bug in environment
 [2025-11-22T15:17:40] Add PyBullet physics simulation backend
+[2025-11-22T14:57:51] Update README with usage and setup instructions

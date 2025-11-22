@@ -163,3 +163,5 @@ def format_number(n: int) -> str:
 # Fix state representation bug in environment [2025-11-19T16:27:25]
 
 # Add PyBullet physics simulation backend [2025-11-22T15:17:40]
+
+# Update README with usage and setup instructions [2025-11-22T14:57:51]
