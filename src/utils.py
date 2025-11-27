@@ -165,3 +165,5 @@ def format_number(n: int) -> str:
 # Add PyBullet physics simulation backend [2025-11-22T15:17:40]
 
 # Update README with usage and setup instructions [2025-11-22T14:57:51]
+
+# Implement SAC for off-policy learning [2025-11-27T20:06:15]
