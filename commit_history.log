@@ -310,3 +310,4 @@
 [2025-11-28T17:19:21] WIP: tuning hyperparameters for sparse rewards
 [2025-11-30T12:31:23] WIP: debugging reward shaping for stability
 [2025-11-30T17:44:11] WIP: benchmarking on MuJoCo control tasks
+[2025-11-30T20:51:05] Update README with usage and setup instructions
