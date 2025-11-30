@@ -167,3 +167,5 @@ def format_number(n: int) -> str:
 # Update README with usage and setup instructions [2025-11-22T14:57:51]
 
 # Implement SAC for off-policy learning [2025-11-27T20:06:15]
+
+# WIP: benchmarking on MuJoCo control tasks [2025-11-30T17:44:11]
