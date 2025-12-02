@@ -284,3 +284,5 @@ if __name__ == '__main__':
 # WIP: tuning hyperparameters for sparse rewards [2025-11-28T17:19:21]
 
 # WIP: debugging reward shaping for stability [2025-11-30T12:31:23]
+
+# Implement curriculum learning for harder tasks [2025-12-02T13:10:02]
