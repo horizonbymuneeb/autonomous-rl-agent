@@ -286,3 +286,5 @@ if __name__ == '__main__':
 # WIP: debugging reward shaping for stability [2025-11-30T12:31:23]
 
 # Implement curriculum learning for harder tasks [2025-12-02T13:10:02]
+
+# Update PPO for continuous action control [2025-12-04T16:43:06]
