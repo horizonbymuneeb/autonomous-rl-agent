@@ -288,3 +288,5 @@ if __name__ == '__main__':
 # Implement curriculum learning for harder tasks [2025-12-02T13:10:02]
 
 # Update PPO for continuous action control [2025-12-04T16:43:06]
+
+# Implement hindsight experience replay for sparse [2025-12-09T15:10:57]

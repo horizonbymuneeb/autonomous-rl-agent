@@ -313,3 +313,4 @@
 [2025-11-30T20:51:05] Update README with usage and setup instructions
 [2025-12-02T13:10:02] Implement curriculum learning for harder tasks
 [2025-12-04T16:43:06] Update PPO for continuous action control
+[2025-12-09T15:10:57] Implement hindsight experience replay for sparse
