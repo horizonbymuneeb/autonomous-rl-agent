@@ -171,3 +171,5 @@ def format_number(n: int) -> str:
 # WIP: benchmarking on MuJoCo control tasks [2025-11-30T17:44:11]
 
 # Update README with usage and setup instructions [2025-11-30T20:51:05]
+
+# Update PPO for continuous action control [2025-12-14T09:33:31]
