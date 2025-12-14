@@ -290,3 +290,5 @@ if __name__ == '__main__':
 # Update PPO for continuous action control [2025-12-04T16:43:06]
 
 # Implement hindsight experience replay for sparse [2025-12-09T15:10:57]
+
+# Add transfer learning between related tasks [2025-12-14T19:13:43]
