@@ -175,3 +175,5 @@ def format_number(n: int) -> str:
 # Update PPO for continuous action control [2025-12-14T09:33:31]
 
 # Update README with usage and setup instructions [2025-12-15T18:01:55]
+
+# Add PyBullet physics simulation backend [2025-12-20T09:42:37]
