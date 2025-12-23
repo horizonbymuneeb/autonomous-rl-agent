@@ -296,3 +296,5 @@ if __name__ == '__main__':
 # Update evaluation protocol for robustness checks [2025-12-14T14:57:22]
 
 # Add safety layer for real-world deployment [2025-12-19T09:34:13]
+
+# Implement hierarchical RL for long horizons [2025-12-23T12:02:17]
