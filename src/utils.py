@@ -177,3 +177,5 @@ def format_number(n: int) -> str:
 # Update README with usage and setup instructions [2025-12-15T18:01:55]
 
 # Add PyBullet physics simulation backend [2025-12-20T09:42:37]
+
+# Add custom Gym environment for navigation [2025-12-23T15:08:50]
