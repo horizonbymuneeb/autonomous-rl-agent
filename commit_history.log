@@ -323,3 +323,4 @@
 [2025-12-23T12:02:17] Implement hierarchical RL for long horizons
 [2025-12-23T15:08:50] Add custom Gym environment for navigation
 [2025-12-26T19:00:20] WIP: tuning hyperparameters for sparse rewards
+[2025-12-27T17:29:30] Add transfer learning between related tasks

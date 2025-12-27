@@ -300,3 +300,5 @@ if __name__ == '__main__':
 # Implement hierarchical RL for long horizons [2025-12-23T12:02:17]
 
 # WIP: tuning hyperparameters for sparse rewards [2025-12-26T19:00:20]
+
+# Add transfer learning between related tasks [2025-12-27T17:29:30]
