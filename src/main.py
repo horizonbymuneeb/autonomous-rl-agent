@@ -302,3 +302,5 @@ if __name__ == '__main__':
 # WIP: tuning hyperparameters for sparse rewards [2025-12-26T19:00:20]
 
 # Add transfer learning between related tasks [2025-12-27T17:29:30]
+
+# Implement curriculum learning for harder tasks [2025-12-28T17:48:40]
