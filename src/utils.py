@@ -181,3 +181,5 @@ def format_number(n: int) -> str:
 # Add custom Gym environment for navigation [2025-12-23T15:08:50]
 
 # Update agent for multi-agent scenario support [2025-12-29T09:00:51]
+
+# Implement SAC for off-policy learning [2025-12-30T16:56:51]
