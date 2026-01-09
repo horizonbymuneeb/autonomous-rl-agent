@@ -332,3 +332,4 @@
 [2026-01-06T19:40:54] Implement hierarchical RL for long horizons
 [2026-01-08T10:49:58] Update agent for multi-agent scenario support
 [2026-01-08T15:58:36] Implement hindsight experience replay for sparse
+[2026-01-09T20:14:04] WIP: debugging reward shaping for stability

@@ -310,3 +310,5 @@ if __name__ == '__main__':
 # Implement hierarchical RL for long horizons [2026-01-06T19:40:54]
 
 # Implement hindsight experience replay for sparse [2026-01-08T15:58:36]
+
+# WIP: debugging reward shaping for stability [2026-01-09T20:14:04]
