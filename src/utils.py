@@ -187,3 +187,5 @@ def format_number(n: int) -> str:
 # Add transfer learning between related tasks [2026-01-05T19:35:28]
 
 # Update agent for multi-agent scenario support [2026-01-08T10:49:58]
+
+# Implement hierarchical RL for long horizons [2026-01-13T17:39:05]
