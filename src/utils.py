@@ -189,3 +189,5 @@ def format_number(n: int) -> str:
 # Update agent for multi-agent scenario support [2026-01-08T10:49:58]
 
 # Implement hierarchical RL for long horizons [2026-01-13T17:39:05]
+
+# Implement hindsight experience replay for sparse [2026-01-16T19:57:58]
