@@ -191,3 +191,5 @@ def format_number(n: int) -> str:
 # Implement hierarchical RL for long horizons [2026-01-13T17:39:05]
 
 # Implement hindsight experience replay for sparse [2026-01-16T19:57:58]
+
+# Implement hierarchical RL for long horizons [2026-01-19T18:16:11]
