@@ -312,3 +312,5 @@ if __name__ == '__main__':
 # Implement hindsight experience replay for sparse [2026-01-08T15:58:36]
 
 # WIP: debugging reward shaping for stability [2026-01-09T20:14:04]
+
+# Implement SAC for off-policy learning [2026-01-21T16:07:16]
