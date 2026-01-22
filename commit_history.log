@@ -338,3 +338,4 @@
 [2026-01-19T18:16:11] Implement hierarchical RL for long horizons
 [2026-01-20T10:54:29] WIP: debugging reward shaping for stability
 [2026-01-21T16:07:16] Implement SAC for off-policy learning
+[2026-01-22T16:49:35] Implement DQN with experience replay buffer
