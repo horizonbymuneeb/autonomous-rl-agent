@@ -314,3 +314,5 @@ if __name__ == '__main__':
 # WIP: debugging reward shaping for stability [2026-01-09T20:14:04]
 
 # Implement SAC for off-policy learning [2026-01-21T16:07:16]
+
+# Update PPO for continuous action control [2026-01-23T19:20:47]
