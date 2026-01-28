@@ -318,3 +318,5 @@ if __name__ == '__main__':
 # Update PPO for continuous action control [2026-01-23T19:20:47]
 
 # Update README with usage and setup instructions [2026-01-24T17:05:52]
+
+# Implement SAC for off-policy learning [2026-01-28T13:28:09]
