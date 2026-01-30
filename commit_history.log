@@ -344,3 +344,4 @@
 [2026-01-28T13:28:09] Implement SAC for off-policy learning
 [2026-01-29T09:00:02] WIP: debugging reward shaping for stability
 [2026-01-30T17:17:16] Update agent for multi-agent scenario support
+[2026-01-30T16:43:34] Fix observation normalization statistics

@@ -320,3 +320,5 @@ if __name__ == '__main__':
 # Update README with usage and setup instructions [2026-01-24T17:05:52]
 
 # Implement SAC for off-policy learning [2026-01-28T13:28:09]
+
+# Fix observation normalization statistics [2026-01-30T16:43:34]
