@@ -343,3 +343,4 @@
 [2026-01-24T17:05:52] Update README with usage and setup instructions
 [2026-01-28T13:28:09] Implement SAC for off-policy learning
 [2026-01-29T09:00:02] WIP: debugging reward shaping for stability
+[2026-01-30T17:17:16] Update agent for multi-agent scenario support
