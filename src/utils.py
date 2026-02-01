@@ -201,3 +201,5 @@ def format_number(n: int) -> str:
 # WIP: debugging reward shaping for stability [2026-01-29T09:00:02]
 
 # Update agent for multi-agent scenario support [2026-01-30T17:17:16]
+
+# Add safety layer for real-world deployment [2026-02-01T14:24:54]
