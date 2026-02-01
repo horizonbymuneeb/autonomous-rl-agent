@@ -322,3 +322,5 @@ if __name__ == '__main__':
 # Implement SAC for off-policy learning [2026-01-28T13:28:09]
 
 # Fix observation normalization statistics [2026-01-30T16:43:34]
+
+# WIP: debugging reward shaping for stability [2026-02-01T10:29:40]
