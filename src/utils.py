@@ -205,3 +205,5 @@ def format_number(n: int) -> str:
 # Add safety layer for real-world deployment [2026-02-01T14:24:54]
 
 # Add safety layer for real-world deployment [2026-02-04T11:14:27]
+
+# Fix observation normalization statistics [2026-02-09T18:10:14]
