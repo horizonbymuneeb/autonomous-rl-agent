@@ -209,3 +209,5 @@ def format_number(n: int) -> str:
 # Fix observation normalization statistics [2026-02-09T18:10:14]
 
 # Fix observation normalization statistics [2026-02-10T10:15:19]
+
+# Implement hindsight experience replay for sparse [2026-02-12T19:25:36]
