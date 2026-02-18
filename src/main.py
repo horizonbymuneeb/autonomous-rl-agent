@@ -326,3 +326,5 @@ if __name__ == '__main__':
 # WIP: debugging reward shaping for stability [2026-02-01T10:29:40]
 
 # Update evaluation protocol for robustness checks [2026-02-05T10:10:53]
+
+# Add logging for training metrics to tensorboard [2026-02-18T12:50:19]

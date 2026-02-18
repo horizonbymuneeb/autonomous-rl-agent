@@ -352,3 +352,4 @@
 [2026-02-09T18:10:14] Fix observation normalization statistics
 [2026-02-10T10:15:19] Fix observation normalization statistics
 [2026-02-12T19:25:36] Implement hindsight experience replay for sparse
+[2026-02-18T12:50:19] Add logging for training metrics to tensorboard
