@@ -213,3 +213,5 @@ def format_number(n: int) -> str:
 # Implement hindsight experience replay for sparse [2026-02-12T19:25:36]
 
 # Update agent for multi-agent scenario support [2026-02-19T13:49:38]
+
+# WIP: tuning hyperparameters for sparse rewards [2026-02-21T09:53:40]
