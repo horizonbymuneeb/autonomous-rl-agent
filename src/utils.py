@@ -215,3 +215,5 @@ def format_number(n: int) -> str:
 # Update agent for multi-agent scenario support [2026-02-19T13:49:38]
 
 # WIP: tuning hyperparameters for sparse rewards [2026-02-21T09:53:40]
+
+# Add transfer learning between related tasks [2026-02-23T13:07:21]
