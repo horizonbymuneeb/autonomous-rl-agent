@@ -330,3 +330,5 @@ if __name__ == '__main__':
 # Add logging for training metrics to tensorboard [2026-02-18T12:50:19]
 
 # Implement SAC for off-policy learning [2026-02-19T15:08:23]
+
+# Implement curriculum learning for harder tasks [2026-02-24T11:45:28]

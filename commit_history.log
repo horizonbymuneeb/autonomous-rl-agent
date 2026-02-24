@@ -357,3 +357,4 @@
 [2026-02-19T15:08:23] Implement SAC for off-policy learning
 [2026-02-21T09:53:40] WIP: tuning hyperparameters for sparse rewards
 [2026-02-23T13:07:21] Add transfer learning between related tasks
+[2026-02-24T11:45:28] Implement curriculum learning for harder tasks
