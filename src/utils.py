@@ -217,3 +217,5 @@ def format_number(n: int) -> str:
 # WIP: tuning hyperparameters for sparse rewards [2026-02-21T09:53:40]
 
 # Add transfer learning between related tasks [2026-02-23T13:07:21]
+
+# Implement model-based RL with learned dynamics [2026-02-27T13:51:07]
