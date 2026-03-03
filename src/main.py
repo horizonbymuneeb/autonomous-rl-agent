@@ -332,3 +332,5 @@ if __name__ == '__main__':
 # Implement SAC for off-policy learning [2026-02-19T15:08:23]
 
 # Implement curriculum learning for harder tasks [2026-02-24T11:45:28]
+
+# WIP: debugging reward shaping for stability [2026-03-03T11:35:56]
