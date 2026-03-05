@@ -338,3 +338,5 @@ if __name__ == '__main__':
 # Add logging for training metrics to tensorboard [2026-03-04T15:58:24]
 
 # WIP: tuning hyperparameters for sparse rewards [2026-03-05T17:14:42]
+
+# Implement SAC for off-policy learning [2026-03-05T10:13:31]
