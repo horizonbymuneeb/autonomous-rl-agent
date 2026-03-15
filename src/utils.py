@@ -223,3 +223,5 @@ def format_number(n: int) -> str:
 # WIP: debugging reward shaping for stability [2026-02-27T13:58:45]
 
 # Add custom Gym environment for navigation [2026-03-09T09:39:33]
+
+# Add safety layer for real-world deployment [2026-03-15T12:18:35]
