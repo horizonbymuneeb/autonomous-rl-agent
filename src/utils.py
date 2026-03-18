@@ -227,3 +227,5 @@ def format_number(n: int) -> str:
 # Add safety layer for real-world deployment [2026-03-15T12:18:35]
 
 # Update PPO for continuous action control [2026-03-18T20:13:42]
+
+# Implement hierarchical RL for long horizons [2026-03-18T20:16:44]
