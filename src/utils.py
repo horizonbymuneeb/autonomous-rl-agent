@@ -229,3 +229,5 @@ def format_number(n: int) -> str:
 # Update PPO for continuous action control [2026-03-18T20:13:42]
 
 # Implement hierarchical RL for long horizons [2026-03-18T20:16:44]
+
+# Implement SAC for off-policy learning [2026-03-19T09:43:38]
