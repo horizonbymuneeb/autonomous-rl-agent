@@ -370,3 +370,4 @@
 [2026-03-18T20:13:42] Update PPO for continuous action control
 [2026-03-18T20:16:44] Implement hierarchical RL for long horizons
 [2026-03-19T09:43:38] Implement SAC for off-policy learning
+[2026-03-19T16:06:46] Add PyBullet physics simulation backend

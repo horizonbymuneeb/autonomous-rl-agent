@@ -231,3 +231,5 @@ def format_number(n: int) -> str:
 # Implement hierarchical RL for long horizons [2026-03-18T20:16:44]
 
 # Implement SAC for off-policy learning [2026-03-19T09:43:38]
+
+# Add PyBullet physics simulation backend [2026-03-19T16:06:46]
