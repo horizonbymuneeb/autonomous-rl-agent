@@ -237,3 +237,5 @@ def format_number(n: int) -> str:
 # WIP: debugging reward shaping for stability [2026-03-20T15:08:59]
 
 # WIP: debugging reward shaping for stability [2026-03-20T19:06:22]
+
+# Add PyBullet physics simulation backend [2026-03-20T14:45:16]
