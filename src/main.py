@@ -342,3 +342,5 @@ if __name__ == '__main__':
 # Implement SAC for off-policy learning [2026-03-05T10:13:31]
 
 # WIP: benchmarking on MuJoCo control tasks [2026-03-14T12:35:40]
+
+# Implement hierarchical RL for long horizons [2026-03-20T15:34:48]
