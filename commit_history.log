@@ -371,3 +371,4 @@
 [2026-03-18T20:16:44] Implement hierarchical RL for long horizons
 [2026-03-19T09:43:38] Implement SAC for off-policy learning
 [2026-03-19T16:06:46] Add PyBullet physics simulation backend
+[2026-03-20T15:08:59] WIP: debugging reward shaping for stability

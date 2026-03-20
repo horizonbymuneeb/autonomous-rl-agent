@@ -233,3 +233,5 @@ def format_number(n: int) -> str:
 # Implement SAC for off-policy learning [2026-03-19T09:43:38]
 
 # Add PyBullet physics simulation backend [2026-03-19T16:06:46]
+
+# WIP: debugging reward shaping for stability [2026-03-20T15:08:59]
