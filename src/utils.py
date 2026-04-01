@@ -241,3 +241,5 @@ def format_number(n: int) -> str:
 # Add PyBullet physics simulation backend [2026-03-20T14:45:16]
 
 # Implement hierarchical RL for long horizons [2026-03-25T10:26:30]
+
+# Fix observation normalization statistics [2026-04-01T17:15:10]
