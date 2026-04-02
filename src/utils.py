@@ -243,3 +243,5 @@ def format_number(n: int) -> str:
 # Implement hierarchical RL for long horizons [2026-03-25T10:26:30]
 
 # Fix observation normalization statistics [2026-04-01T17:15:10]
+
+# Implement hindsight experience replay for sparse [2026-04-02T11:42:25]
