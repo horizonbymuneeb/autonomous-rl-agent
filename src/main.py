@@ -346,3 +346,5 @@ if __name__ == '__main__':
 # Implement hierarchical RL for long horizons [2026-03-20T15:34:48]
 
 # WIP: benchmarking on MuJoCo control tasks [2026-04-02T13:07:41]
+
+# Implement hierarchical RL for long horizons [2026-04-02T14:30:46]
