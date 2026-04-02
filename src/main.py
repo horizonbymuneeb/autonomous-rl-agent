@@ -348,3 +348,5 @@ if __name__ == '__main__':
 # WIP: benchmarking on MuJoCo control tasks [2026-04-02T13:07:41]
 
 # Implement hierarchical RL for long horizons [2026-04-02T14:30:46]
+
+# Add logging for training metrics to tensorboard [2026-04-02T11:09:19]

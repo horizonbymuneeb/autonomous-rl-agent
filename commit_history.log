@@ -379,3 +379,4 @@
 [2026-04-01T17:15:10] Fix observation normalization statistics
 [2026-04-02T13:07:41] WIP: benchmarking on MuJoCo control tasks
 [2026-04-02T14:30:46] Implement hierarchical RL for long horizons
+[2026-04-02T11:09:19] Add logging for training metrics to tensorboard
