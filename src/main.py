@@ -350,3 +350,5 @@ if __name__ == '__main__':
 # Implement hierarchical RL for long horizons [2026-04-02T14:30:46]
 
 # Add logging for training metrics to tensorboard [2026-04-02T11:09:19]
+
+# WIP: debugging reward shaping for stability [2026-04-05T17:20:46]
