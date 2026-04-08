@@ -383,3 +383,4 @@
 [2026-04-02T11:42:25] Implement hindsight experience replay for sparse
 [2026-04-05T17:20:46] WIP: debugging reward shaping for stability
 [2026-04-07T16:32:57] Add custom Gym environment for navigation
+[2026-04-08T15:37:53] Implement SAC for off-policy learning

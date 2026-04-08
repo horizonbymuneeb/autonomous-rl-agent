@@ -245,3 +245,5 @@ def format_number(n: int) -> str:
 # Fix observation normalization statistics [2026-04-01T17:15:10]
 
 # Implement hindsight experience replay for sparse [2026-04-02T11:42:25]
+
+# Implement SAC for off-policy learning [2026-04-08T15:37:53]
