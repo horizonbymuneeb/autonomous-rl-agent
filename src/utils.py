@@ -247,3 +247,5 @@ def format_number(n: int) -> str:
 # Implement hindsight experience replay for sparse [2026-04-02T11:42:25]
 
 # Implement SAC for off-policy learning [2026-04-08T15:37:53]
+
+# Add logging for training metrics to tensorboard [2026-04-14T19:04:45]
