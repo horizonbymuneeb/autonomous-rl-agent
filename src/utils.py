@@ -251,3 +251,5 @@ def format_number(n: int) -> str:
 # Add logging for training metrics to tensorboard [2026-04-14T19:04:45]
 
 # Fix observation normalization statistics [2026-04-22T17:34:11]
+
+# Update evaluation protocol for robustness checks [2026-04-24T19:53:26]
