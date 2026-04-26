@@ -362,3 +362,5 @@ if __name__ == '__main__':
 # Add custom Gym environment for navigation [2026-04-19T15:15:47]
 
 # Fix observation normalization statistics [2026-04-26T12:29:51]
+
+# Implement DQN with experience replay buffer [2026-04-26T11:49:11]
