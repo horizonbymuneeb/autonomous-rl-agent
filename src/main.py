@@ -360,3 +360,5 @@ if __name__ == '__main__':
 # Implement model-based RL with learned dynamics [2026-04-12T19:20:20]
 
 # Add custom Gym environment for navigation [2026-04-19T15:15:47]
+
+# Fix observation normalization statistics [2026-04-26T12:29:51]
