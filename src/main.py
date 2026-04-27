@@ -366,3 +366,5 @@ if __name__ == '__main__':
 # Implement DQN with experience replay buffer [2026-04-26T11:49:11]
 
 # Fix observation normalization statistics [2026-04-26T18:24:41]
+
+# Implement model-based RL with learned dynamics [2026-04-27T19:26:11]
