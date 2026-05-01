@@ -253,3 +253,5 @@ def format_number(n: int) -> str:
 # Fix observation normalization statistics [2026-04-22T17:34:11]
 
 # Update evaluation protocol for robustness checks [2026-04-24T19:53:26]
+
+# Add custom Gym environment for navigation [2026-05-01T09:40:12]
