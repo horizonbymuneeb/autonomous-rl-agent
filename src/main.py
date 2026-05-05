@@ -368,3 +368,5 @@ if __name__ == '__main__':
 # Fix observation normalization statistics [2026-04-26T18:24:41]
 
 # Implement model-based RL with learned dynamics [2026-04-27T19:26:11]
+
+# WIP: tuning hyperparameters for sparse rewards [2026-05-05T15:50:27]
