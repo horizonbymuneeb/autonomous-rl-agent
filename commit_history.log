@@ -396,3 +396,4 @@
 [2026-04-27T19:26:11] Implement model-based RL with learned dynamics
 [2026-05-01T09:40:12] Add custom Gym environment for navigation
 [2026-05-05T15:50:27] WIP: tuning hyperparameters for sparse rewards
+[2026-05-07T09:04:45] Add transfer learning between related tasks

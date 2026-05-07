@@ -370,3 +370,5 @@ if __name__ == '__main__':
 # Implement model-based RL with learned dynamics [2026-04-27T19:26:11]
 
 # WIP: tuning hyperparameters for sparse rewards [2026-05-05T15:50:27]
+
+# Add transfer learning between related tasks [2026-05-07T09:04:45]
