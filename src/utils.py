@@ -255,3 +255,5 @@ def format_number(n: int) -> str:
 # Update evaluation protocol for robustness checks [2026-04-24T19:53:26]
 
 # Add custom Gym environment for navigation [2026-05-01T09:40:12]
+
+# Implement model-based RL with learned dynamics [2026-05-08T11:26:42]
