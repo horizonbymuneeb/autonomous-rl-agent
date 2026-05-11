@@ -257,3 +257,5 @@ def format_number(n: int) -> str:
 # Add custom Gym environment for navigation [2026-05-01T09:40:12]
 
 # Implement model-based RL with learned dynamics [2026-05-08T11:26:42]
+
+# Update README with usage and setup instructions [2026-05-11T09:52:59]
