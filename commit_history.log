@@ -401,3 +401,4 @@
 [2026-05-08T11:26:42] Implement model-based RL with learned dynamics
 [2026-05-11T09:52:59] Update README with usage and setup instructions
 [2026-05-12T18:29:36] Implement DQN with experience replay buffer
+[2026-05-13T09:09:03] Update README with usage and setup instructions
