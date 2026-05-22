@@ -261,3 +261,5 @@ def format_number(n: int) -> str:
 # Update README with usage and setup instructions [2026-05-11T09:52:59]
 
 # Update README with usage and setup instructions [2026-05-13T09:09:03]
+
+# Implement model-based RL with learned dynamics [2026-05-22T09:09:29]
