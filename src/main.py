@@ -376,3 +376,5 @@ if __name__ == '__main__':
 # WIP: tuning hyperparameters for sparse rewards [2026-05-07T18:24:22]
 
 # Implement DQN with experience replay buffer [2026-05-12T18:29:36]
+
+# Add transfer learning between related tasks [2026-05-25T14:32:47]
