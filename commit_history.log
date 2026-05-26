@@ -404,3 +404,4 @@
 [2026-05-13T09:09:03] Update README with usage and setup instructions
 [2026-05-22T09:09:29] Implement model-based RL with learned dynamics
 [2026-05-25T14:32:47] Add transfer learning between related tasks
+[2026-05-26T16:18:16] WIP: debugging reward shaping for stability
