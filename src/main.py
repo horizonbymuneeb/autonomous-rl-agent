@@ -378,3 +378,5 @@ if __name__ == '__main__':
 # Implement DQN with experience replay buffer [2026-05-12T18:29:36]
 
 # Add transfer learning between related tasks [2026-05-25T14:32:47]
+
+# Add custom Gym environment for navigation [2026-05-27T10:17:25]
