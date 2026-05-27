@@ -406,3 +406,4 @@
 [2026-05-25T14:32:47] Add transfer learning between related tasks
 [2026-05-26T16:18:16] WIP: debugging reward shaping for stability
 [2026-05-27T10:17:25] Add custom Gym environment for navigation
+[2026-05-27T12:11:41] Update evaluation protocol for robustness checks

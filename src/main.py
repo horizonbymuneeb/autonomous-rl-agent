@@ -380,3 +380,5 @@ if __name__ == '__main__':
 # Add transfer learning between related tasks [2026-05-25T14:32:47]
 
 # Add custom Gym environment for navigation [2026-05-27T10:17:25]
+
+# Update evaluation protocol for robustness checks [2026-05-27T12:11:41]
