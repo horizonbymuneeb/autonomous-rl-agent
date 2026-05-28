@@ -267,3 +267,5 @@ def format_number(n: int) -> str:
 # WIP: debugging reward shaping for stability [2026-05-26T16:18:16]
 
 # Implement curriculum learning for harder tasks [2026-05-28T19:27:55]
+
+# Fix observation normalization statistics [2026-05-28T17:51:25]
