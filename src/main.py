@@ -382,3 +382,5 @@ if __name__ == '__main__':
 # Add custom Gym environment for navigation [2026-05-27T10:17:25]
 
 # Update evaluation protocol for robustness checks [2026-05-27T12:11:41]
+
+# Add safety layer for real-world deployment [2026-05-29T14:59:26]
