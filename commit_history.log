@@ -409,3 +409,4 @@
 [2026-05-27T12:11:41] Update evaluation protocol for robustness checks
 [2026-05-28T19:27:55] Implement curriculum learning for harder tasks
 [2026-05-28T17:51:25] Fix observation normalization statistics
+[2026-05-29T20:47:16] WIP: debugging reward shaping for stability
