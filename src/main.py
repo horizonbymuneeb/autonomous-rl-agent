@@ -386,3 +386,5 @@ if __name__ == '__main__':
 # Add safety layer for real-world deployment [2026-05-29T14:59:26]
 
 # Update PPO for continuous action control [2026-06-05T13:41:42]
+
+# WIP: benchmarking on MuJoCo control tasks [2026-06-07T13:02:16]
