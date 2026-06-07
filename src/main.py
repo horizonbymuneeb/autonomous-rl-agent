@@ -388,3 +388,5 @@ if __name__ == '__main__':
 # Update PPO for continuous action control [2026-06-05T13:41:42]
 
 # WIP: benchmarking on MuJoCo control tasks [2026-06-07T13:02:16]
+
+# Implement DQN with experience replay buffer [2026-06-07T12:37:20]
