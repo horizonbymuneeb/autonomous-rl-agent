@@ -390,3 +390,5 @@ if __name__ == '__main__':
 # WIP: benchmarking on MuJoCo control tasks [2026-06-07T13:02:16]
 
 # Implement DQN with experience replay buffer [2026-06-07T12:37:20]
+
+# WIP: tuning hyperparameters for sparse rewards [2026-06-08T14:10:02]
