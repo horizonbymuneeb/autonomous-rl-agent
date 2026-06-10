@@ -271,3 +271,5 @@ def format_number(n: int) -> str:
 # Fix observation normalization statistics [2026-05-28T17:51:25]
 
 # WIP: debugging reward shaping for stability [2026-05-29T20:47:16]
+
+# Implement hindsight experience replay for sparse [2026-06-10T14:24:25]
